@@ -69,7 +69,7 @@ namespace дз_12._02
 
         static void Main(string[] args)
         {
-            SimpleMethod(0, 0);
+            SimpleMethod(int.Parse(Console.ReadLine()), int.Parse(Console.ReadLine()));
         }
     }
 }
