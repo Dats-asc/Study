@@ -57,7 +57,7 @@ namespace дз_12._02._21_2
         }
         static void Main(string[] args)
         {
-
+            Console.WriteLine();
         }
     }
 }
