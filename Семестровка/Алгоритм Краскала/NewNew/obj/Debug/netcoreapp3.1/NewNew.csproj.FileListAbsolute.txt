@@ -1,0 +1,13 @@
+C:\Users\rust0\source\repos\NewNew\NewNew\obj\Debug\netcoreapp3.1\NewNew.csprojAssemblyReference.cache
+C:\Users\rust0\source\repos\NewNew\NewNew\obj\Debug\netcoreapp3.1\NewNew.AssemblyInfoInputs.cache
+C:\Users\rust0\source\repos\NewNew\NewNew\obj\Debug\netcoreapp3.1\NewNew.AssemblyInfo.cs
+C:\Users\rust0\source\repos\NewNew\NewNew\obj\Debug\netcoreapp3.1\NewNew.csproj.CoreCompileInputs.cache
+C:\Users\rust0\source\repos\NewNew\NewNew\bin\Debug\netcoreapp3.1\NewNew.exe
+C:\Users\rust0\source\repos\NewNew\NewNew\bin\Debug\netcoreapp3.1\NewNew.deps.json
+C:\Users\rust0\source\repos\NewNew\NewNew\bin\Debug\netcoreapp3.1\NewNew.runtimeconfig.json
+C:\Users\rust0\source\repos\NewNew\NewNew\bin\Debug\netcoreapp3.1\NewNew.runtimeconfig.dev.json
+C:\Users\rust0\source\repos\NewNew\NewNew\bin\Debug\netcoreapp3.1\NewNew.dll
+C:\Users\rust0\source\repos\NewNew\NewNew\bin\Debug\netcoreapp3.1\NewNew.pdb
+C:\Users\rust0\source\repos\NewNew\NewNew\obj\Debug\netcoreapp3.1\NewNew.dll
+C:\Users\rust0\source\repos\NewNew\NewNew\obj\Debug\netcoreapp3.1\NewNew.pdb
+C:\Users\rust0\source\repos\NewNew\NewNew\obj\Debug\netcoreapp3.1\NewNew.genruntimeconfig.cache
