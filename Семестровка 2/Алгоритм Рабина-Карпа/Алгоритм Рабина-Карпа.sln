@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Алгоритм Рабина-Карпа", "Алгоритм Рабина-Карпа\Алгоритм Рабина-Карпа.csproj", "{F4E7469B-CBBB-419D-9EE7-0E2055D3FA70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E7469B-CBBB-419D-9EE7-0E2055D3FA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E7469B-CBBB-419D-9EE7-0E2055D3FA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E7469B-CBBB-419D-9EE7-0E2055D3FA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E7469B-CBBB-419D-9EE7-0E2055D3FA70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D1464B4-8795-4CAA-9FFA-E15EF8BD5583}
+	EndGlobalSection
+EndGlobal

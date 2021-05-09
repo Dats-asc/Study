@@ -1,0 +1,4 @@
+﻿  Rabin-Karp algorithm (c++).cpp
+C:\Users\rust0\source\repos\Rabin-Karp algorithm (c++)\Rabin-Karp algorithm (c++)\Rabin-Karp algorithm (c++).cpp(8,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\rust0\source\repos\Rabin-Karp algorithm (c++)\Rabin-Karp algorithm (c++)\Rabin-Karp algorithm (c++).cpp(17,23): warning C4018: <=: несоответствие типов со знаком и без знака
+  Rabin-Karp algorithm (c++).vcxproj -> C:\Users\rust0\source\repos\Rabin-Karp algorithm (c++)\Debug\Rabin-Karp algorithm (c++).exe
